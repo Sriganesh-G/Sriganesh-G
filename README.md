@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center" margin="0px" padding="0px">
-  <img  margin="0px" padding="0px" src="https://github.com/Sriganesh-G/Sriganesh-G/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Image" width="100%" height="500px" />
+  <img margin="0px" padding="0px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Image" width="100%" height="500px" />
 </p>
 
 <!-- Title and Subtitle -->
@@ -9,13 +9,13 @@
 
 <!-- Profile Views -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sriganesh&label=Profile%20views&color=0e75b6&style=flat" alt="sriganesh" /> 
+  <img src="https://komarev.com/ghpvc/?username=Sriganesh-G&label=Profile%20views&color=0e75b6&style=flat" alt="Sriganesh-G" /> 
 </p>
 
 <!-- Trophy -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sriganesh" alt="sriganesh" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sriganesh-G" alt="Sriganesh-G" />
   </a>
 </p>
 
@@ -26,6 +26,7 @@
   </a>
 </p>
 
+<!-- Main Section with Subtitle Image on the Right using Table -->
 <!-- Main Section with Subtitle Image on the Right -->
 <table>
   <tr>
@@ -77,11 +78,11 @@
 
 <!-- GitHub Stats -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriganesh&show_icons=true&locale=en&layout=compact" alt="sriganesh" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sriganesh-G&show_icons=true&locale=en&layout=compact" alt="Sriganesh-G" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sriganesh&show_icons=true&locale=en" alt="sriganesh" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriganesh-G&show_icons=true&locale=en" alt="Sriganesh-G" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriganesh&" alt="sriganesh" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriganesh-G" alt="Sriganesh-G" />
 </p>
