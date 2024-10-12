@@ -7,10 +7,7 @@
 <h1 align="center">Hi 👋, I'm Sriganesh</h1>
 <h3 align="center">Aspiring full stack developer, currently skilled in front-end development</h3>
 
-<!-- Profile Views -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Sriganesh-G&label=Profile%20views&color=0e75b6&style=flat" alt="Sriganesh-G" /> 
-</p>
+
 
 <!-- Trophy -->
 <p align="left">
